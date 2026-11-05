@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "f7e22d8cb8e7942c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b0837a3418a22ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f3566651ce048b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Conhecimentos Específicos – Analista de Tecnologia da Informação.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Conhecimentos Específicos – Analista de Tecnologia da Informação"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cfbfac27ccef5e53",
+    "type": "split",
+    "children": [
+      {
+        "id": "eac5d8780056261f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8cb2e705fe9d9c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "50b444ca8535e0ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fb44c70b1e581e17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "56a3529659d5c564",
+    "type": "split",
+    "children": [
+      {
+        "id": "9aac94aebe626b32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10961bf7d31c8aed",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Conhecimentos Específicos – Analista de Tecnologia da Informação.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "dd6e5033c4a1e33e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Conhecimentos Específicos – Analista de Tecnologia da Informação.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "70cc6985473ffc0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a1f61d0b29c0f9ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "dd41fff4b87f7de5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Conhecimentos Específicos – Analista de Tecnologia da Informação.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "7f3566651ce048b1",
+  "lastOpenFiles": [
+    "LEGISLAÇÃO.md",
+    "Conhecimentos Específicos – Analista de Tecnologia da Informação.md",
+    "Untitled.base",
+    "Welcome.md"
+  ]
+}
